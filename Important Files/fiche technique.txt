@@ -1,0 +1,6 @@
+streaming (security)
+pir (mouvement, capture)
+gaz(mq2, mq5)
+temperature(clim)
+historique
+alarm(buzzer)
